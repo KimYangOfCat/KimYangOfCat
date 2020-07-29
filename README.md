@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi  👋
+I‘m KimYang, Nice to meet you~
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimYangOfCat&hide=stars&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimYangOfCat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **KimYangOfCat/KimYangOfCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
