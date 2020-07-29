@@ -2,9 +2,7 @@
 
 I‘m KimYang, nice to meet you~
 
-![KimYang's github stats](https://github-readme-stats.vercel.app/api?username=KimYangOfCat&hide=stars&show_icons=true&theme=cobalt&count_private=true)
-
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimYangOfCat&layout=compact&hide=html)
+![KimYang's github stats](https://github-readme-stats.vercel.app/api?username=KimYangOfCat&hide=stars&show_icons=true&theme=cobalt&count_private=true)  ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimYangOfCat&layout=compact&hide=html)
 
 ### Find me by other way
 
