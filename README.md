@@ -1,10 +1,10 @@
 ### Hi  👋
-I‘m KimYang, Nice to meet you~
+I‘m KimYang, nice to meet you~
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimYangOfCat&hide=stars&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimYangOfCat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimYangOfCat&hide=stars&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimYangOfCat&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-
+@2019-2020 ❤️ KimYang | Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KimYangOfCat/KimYangOfCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
