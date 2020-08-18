@@ -17,4 +17,4 @@ jobs:
          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
          dst_token: ${{ secrets.GITEE_TOKEN }}
          #白名单
-         white_list: "2021-CSPostgraduate-408"
+         white_list: "CSPostgraduate-408-2021"
