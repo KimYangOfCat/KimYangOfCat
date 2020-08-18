@@ -1,0 +1,20 @@
+name: Gitee repos mirror periodic job
+on:
+# 如果需要PR触发把push前的#去掉
+#   push:
+  schedule:
+    # 每天北京时间9点跑
+    - cron:  '0 1 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Single repo mirror
+        uses: Yikun/hub-mirror-action@master
+        with:
+         src: github/KimYangOfCat
+         dst: gitee/kim_yang
+         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+         dst_token: ${{ secrets.GITEE_TOKEN }}
+         #白名单
+         white_list: "2021-CSPostgraduate-408"
