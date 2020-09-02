@@ -2,26 +2,15 @@
 
 ### Hi  👋
 
-I‘m KimYang, nice to meet you~
+I‘m KimYang,one person loving stargazing,nice to meet you~
 
-+   🌱 I’m currently learning DataStructrue
+   - 🛠  I now develop Web applications;
+   - 🔗  I used C++, JavaScript, Python,Swift, etc;
+   - 🌱  I’m currently learning CSPostgraduate and other interesting techniques;
+   - 📱  I am using Macbook Pro /MI Mix3 as develop tools.
 
 ### Find me by other way
 
 [![不会秃头的Kim](https://tva1.sinaimg.cn/large/007S8ZIlly1gh8a43pk4wj3022022745.jpg)](https://www.zhihu.com/people/kim_yang)  [![不会秃头的阿Kim](https://tva1.sinaimg.cn/large/007S8ZIlly1gh8a46yfafj3022022dfr.jpg)](https://me.csdn.net/weixin_43316691)
 
 @2019-2020 ❤️ KimYang | Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**KimYangOfCat/KimYangOfCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
