@@ -18,3 +18,4 @@ jobs:
          dst_token: ${{ secrets.GITEE_TOKEN }}
          #白名单
          white_list: "CSPostgraduate-408-2021,Blog"
+         force_update: true
