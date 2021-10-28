@@ -2,12 +2,6 @@
 
 ### Hi  👋
 
-I‘m KimYang,one person loving stargazing,nice to meet you~
-
-   - 🛠  I now develop Web applications;
-   - 🔗  I used  JavaScript, C++, Python,Swift, etc;
-   - 🌱  I’m currently learning some interesting techniques，maybe taking CSPostgraduate again;
-   - 📱  I am using Macbook Pro /MI Mix3 as develop tools.
-
+I‘m KimYang,one person loving stargazing,nice to meet you~ you can konw more details about me by the [blog](https://www.kimyang.cn/)
 
 @2019-2021 ❤️ KimYang | Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
